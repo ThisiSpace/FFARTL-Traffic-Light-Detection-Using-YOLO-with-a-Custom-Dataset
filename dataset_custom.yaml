@@ -1,0 +1,6 @@
+train: C:\Users\ACER NITRO\Documents\Kuliah Gini Amat\VISIOTER\TA\TA\train
+val: C:\Users\ACER NITRO\Documents\Kuliah Gini Amat\VISIOTER\TA\TA\val
+
+nc: 3
+
+names: ["lampu_hijau", "lampu_kuning", "lampu_merah"]
